@@ -12625,4 +12625,4 @@ case ${selection} in
   ;;
 esac
 msg -ne "Enter Para Continuar" && read enter
-${SCPdir}/menu.sh
+${SCPdir}/menu.sh.
